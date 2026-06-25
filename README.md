@@ -1,4 +1,8 @@
+<div align="center">
+<img alt="logo" src="https://github.com/user-attachments/assets/fe3130d3-a488-4abb-be2d-22484c57975b" />
+
 # IABot - AI Chatbot
+</div>
 
 IABot is a desktop AI chatbot application built with Java Swing. It provides a user-friendly interface for chatting with an AI, along with features for managing conversations and user accounts.
 
