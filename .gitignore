@@ -3,7 +3,7 @@
 *.jar
 
 # Database
-*.db
+# *.db
 
 # Logs
 *.log
