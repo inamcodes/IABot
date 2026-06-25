@@ -1,22 +1,5 @@
 # Java
 *.class
-*.jar
 
-# Database
-# *.db
-
-# Logs
-*.log
-
-# IDE files (example for IntelliJ IDEA, add others as needed)
-.idea/
-*.iml
-*.iws
-*.ipr
-
-# Build artifacts
-/out/
-/build/
-/target/
 
 *.webm
