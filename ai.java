@@ -5,7 +5,7 @@ import org.json.*;
 
 public class ai {
 
-    private static final String API_KEY = "AIzaSyBNt198IrDKWufg3fZf7AJkKRzY16PCAj4";
+    private static final String API_KEY = "PLACE_YOUR_API_KEY_HERE";
     private static final String MODEL = "gemini-2.0-flash-001";
 
     public static String generateText(String prompt) throws IOException {
